@@ -3,11 +3,12 @@
      1) Bu icerigi  github.com/KULLANICIADIN/KULLANICIADIN  reposundaki
         README.md dosyasina yapistir. (Repo adi = GitHub kullanici adin)
      2) Bul-Degistir (Ctrl+H) ile  KULLANICIADIN  yazan HER YERI gercek
-        GitHub kullanici adinla degistir. (Toplam ~9 yerde geciyor)
+        GitHub kullanici adinla degistir.
      3) Commit'le. Bitti.
      NOT: Istatistik kartlari ancak dogru kullanici adiyla dolar.
      ============================================================ -->
-<!-- UST BANNER (DUZELTILMIS) -->
+
+<!-- UST BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:4a4a4a&height=200&section=header&text=Hasan%20H%C3%BCseyin%20Kaya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Elektrik-Elektronik%20M%C3%BChendisi%20-nl-%20End%C3%BCstriyel%20Otomasyon%20ve%20Yaz%C4%B1l%C4%B1m&descSize=18&descAlignY=68" />
 
 <!-- YAZAN ANIMASYON -->
@@ -32,20 +33,20 @@
 
 ---
 
-## Merhaba
+## 👋 Merhaba
 
 Elektrik-Elektronik Muhendisiyim ve isin hem donanim hem yazilim tarafinda calismayi seviyorum. Bir uretim hattinin elektrik projesini EPLAN'da sifirdan cizmekten, sahadaki panolarin devreye alinmasina, PLC yaziliminden SCADA arayuzune kadar bir projenin bastan sona her asamasinda bulunuyorum.
 
 En cok keyif aldigim kisim ise isin veriyle bulustugu yer: C# ile SCADA yazmak, OPC UA ve Modbus uzerinden sahayi dinlemek, Python'la goruntu isleme ve makine ogrenmesi denemeleri yapmak. Su an **Zenopix Teknoloji**'de tam otomatik uretim hatlari uzerine calisiyorum.
 
-- Endustriyel otomasyon (PLC, SCADA, saha devreye alma) uzerine 3 yillik deneyim
-- Goruntu isleme, LiDAR verisi ve otonom karar mekanizmalari ile ilgileniyorum
-- C# tabanli ozgun SCADA mimarileri tasarlamayi seviyorum
-- Konya'da yasiyorum, harici lokasyonlarda calismaya musaitim
+- 🏭 Endustriyel otomasyon (PLC, SCADA, saha devreye alma) uzerine 3 yillik deneyim
+- 👁️ Goruntu isleme, LiDAR verisi ve otonom karar mekanizmalari ile ilgileniyorum
+- 💻 C# tabanli ozgun SCADA mimarileri tasarlamayi seviyorum
+- 📍 Konya'da yasiyorum, harici lokasyonlarda calismaya musaitim
 
 ---
 
-## Teknoloji Yigini
+## 🧰 Teknoloji Yigini
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,python,js,mysql,docker,git,opencv,linux,vscode&perline=6" />
@@ -86,20 +87,20 @@ En cok keyif aldigim kisim ise isin veriyle bulustugu yer: C# ile SCADA yazmak, 
 
 ---
 
-## Yetkinlik Seviyeleri
+## 📈 Yetkinlik Seviyeleri
 
-| Dil / Alan | Seviye | |
-|:---|:---|:---|
-| **C#** | `████████░░` | İyi |
-| **Python** | `████████░░` | İyi |
-| **SQL** | `████████░░` | İyi |
-| **C++** | `███████░░░` | Orta-İyi |
-| **C** | `██████░░░░` | Orta |
-| **JavaScript** | `████░░░░░░` | Başlangıç |
+<p align="center">
+  <img src="https://progress-bar.xyz/80/?title=C%23&width=250&color=2d2d2d&progress_background=eaeaea&progress_number_color=ffffff&style=flat" /><br/>
+  <img src="https://progress-bar.xyz/80/?title=Python&width=250&color=2d2d2d&progress_background=eaeaea&progress_number_color=ffffff&style=flat" /><br/>
+  <img src="https://progress-bar.xyz/80/?title=SQL&width=250&color=2d2d2d&progress_background=eaeaea&progress_number_color=ffffff&style=flat" /><br/>
+  <img src="https://progress-bar.xyz/70/?title=C%2B%2B&width=250&color=4a4a4a&progress_background=eaeaea&progress_number_color=ffffff&style=flat" /><br/>
+  <img src="https://progress-bar.xyz/60/?title=C&width=250&color=4a4a4a&progress_background=eaeaea&progress_number_color=ffffff&style=flat" /><br/>
+  <img src="https://progress-bar.xyz/40/?title=JavaScript&width=250&color=8b6444&progress_background=eaeaea&progress_number_color=ffffff&style=flat" />
+</p>
 
 ---
 
-## Deneyim
+## 💼 Deneyim
 
 **Elektrik-Elektronik Muhendisi** — Zenopix Teknoloji  &nbsp; `02/2023 - Devam`
 
@@ -111,7 +112,7 @@ Bilim merkezinde egitmenlik yaptim.
 
 ---
 
-## One Cikan Projeler
+## 🚀 One Cikan Projeler
 
 ### Tam Otomatik Yem Fabrikasi Otomasyonu
 Tesisin elektrik projesini **EPLAN** ile sifirdan tasarladim ve tum saha panolarinin devreye alma (commissioning) sureclerini bizzat yonettim. **Siemens TIA Portal** uzerinde **SCL** dilini kullanarak tesisin hatasiz uretim yapmasini saglayan karmasik PLC lojiklerini ozgun olarak gelistirdim. **OPC UA** haberlesme altyapisini kurup **C# tabanli ozel bir SCADA** mimarisi tasarladim; binlerce saha verisinin yuksek hizda izlenmesini sagladim.
@@ -125,45 +126,57 @@ Tesisin elektrik projesini **EPLAN** ile sifirdan tasarladim ve tum saha panolar
 
 ---
 
-## GitHub Istatistikleri
+## 📊 GitHub Istatistikleri
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=KULLANICIADIN&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2d2d2d&text_color=333333&icon_color=4a4a4a" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=2d2d2d&text_color=333333" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KULLANICIADIN&hide_border=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=KULLANICIADIN&hide_border=true&background=FFFFFF&stroke=2D2D2D&ring=2D2D2D&fire=8B6444&currStreakLabel=1A1A1A&sideLabels=333333&currStreakNum=1A1A1A&sideNums=333333&dates=888888" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KULLANICIADIN&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=KULLANICIADIN&theme=flat&no-frame=true&column=7&margin-w=10" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICIADIN&theme=tokyo-night&hide_border=true&area=true&custom_title=Katki%20Grafigi" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICIADIN&bg_color=ffffff&color=2d2d2d&line=8b6444&point=2d2d2d&area=true&area_color=e8d5b8&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" />
 </p>
 
 ---
 
-## Egitim & Diller
+## 🎓 Egitim & Diller
 
-**Necmettin Erbakan Universitesi** — Elektrik-Elektronik Muhendisligi  &nbsp; `2018`
+### 🏫 Egitim
 
-**Ingilizce:** Okuma (orta) - Konusma (orta) - Yazma (baslangic-orta)
+**Necmettin Erbakan Universitesi**
+Elektrik-Elektronik Muhendisligi 🔌
+📅 Mezuniyet: `2018`
+
+### 🌍 Yabanci Diller
+
+**🇬🇧 Ingilizce**
+
+<p align="left">
+  📖 Okuma &nbsp; <img src="https://progress-bar.xyz/70/?width=180&color=4a4a4a&progress_background=eaeaea&show_text=false&style=flat" /> &nbsp; Orta<br/>
+  ✍️ Yazma &nbsp; <img src="https://progress-bar.xyz/50/?width=180&color=4a4a4a&progress_background=eaeaea&show_text=false&style=flat" /> &nbsp; Baslangic-Orta<br/>
+  🗣️ Konusma &nbsp; <img src="https://progress-bar.xyz/70/?width=180&color=4a4a4a&progress_background=eaeaea&show_text=false&style=flat" /> &nbsp; Orta
+</p>
 
 ---
 
-## Iletisim
+## 📬 Iletisim
 
 <p align="center">
   <a href="mailto:kayahuseyinhasan42@gmail.com">
-    <img src="https://img.shields.io/badge/kayahuseyinhasan42@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/kayahuseyinhasan42@gmail.com-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/hasanhuseyinkaya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <!-- ALT BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0dfc7,50:c9a17a,100:8b6444&height=120&section=footer" />
