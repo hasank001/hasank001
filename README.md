@@ -158,6 +158,12 @@ Tesisin elektrik projesini **EPLAN** ile sifirdan tasarladim ve tum saha panolar
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICIADIN&bg_color=ffffff&color=2d2d2d&line=8b6444&point=2d2d2d&area=true&area_color=e8d5b8&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toramanarda/toramanarda/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toramanarda/toramanarda/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/toramanarda/toramanarda/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## 🎓 Egitim & Diller
