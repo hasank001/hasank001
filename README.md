@@ -7,28 +7,27 @@
      3) Commit'le. Bitti.
      NOT: Istatistik kartlari ancak dogru kullanici adiyla dolar.
      ============================================================ -->
-
-<!-- UST BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Hasan%20H%C3%BCseyin%20Kaya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Elektrik-Elektronik%20M%C3%BChendisi%20%7C%20End%C3%BCstriyel%20Otomasyon%20%26%20Yaz%C4%B1l%C4%B1m&descSize=18&descAlignY=58" />
+<!-- UST BANNER (DUZELTILMIS) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:4a4a4a&height=200&section=header&text=Hasan%20H%C3%BCseyin%20Kaya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Elektrik-Elektronik%20M%C3%BChendisi%20-nl-%20End%C3%BCstriyel%20Otomasyon%20ve%20Yaz%C4%B1l%C4%B1m&descSize=18&descAlignY=68" />
 
 <!-- YAZAN ANIMASYON -->
 <p align="center">
   <a href="https://github.com/KULLANICIADIN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=26D0CE&center=true&vCenter=true&width=650&lines=Elektrik-Elektronik+M%C3%BChendisi;End%C3%BCstriyel+Otomasyon+%7C+PLC+%26+SCADA;OPC+UA+%7C+Modbus+%7C+TIA+Portal;Yapay+Zeka+%26+G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2D2D2D&center=true&vCenter=true&width=650&lines=Elektrik-Elektronik+M%C3%BChendisi;End%C3%BCstriyel+Otomasyon+%7C+PLC+%26+SCADA;OPC+UA+%7C+Modbus+%7C+TIA+Portal;Yapay+Zeka+%26+G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme" alt="typing" />
   </a>
 </p>
 
 <!-- SAYAC + SOSYAL -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=26d0ce&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=2d2d2d&style=flat-square" alt="views" />
   &nbsp;
   <a href="https://linkedin.com/in/hasanhuseyinkaya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kayahuseyinhasan42@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-2d2d2d?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Konya-1a2980?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Konya-4a4a4a?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
