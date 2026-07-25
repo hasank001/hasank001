@@ -8,27 +8,34 @@
      NOT: Istatistik kartlari ancak dogru kullanici adiyla dolar.
      ============================================================ -->
 
-<!-- UST BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:4a4a4a&height=200&section=header&text=Hasan%20H%C3%BCseyin%20Kaya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Elektrik-Elektronik%20M%C3%BChendisi%20-nl-%20End%C3%BCstriyel%20Otomasyon%20ve%20Yaz%C4%B1l%C4%B1m&descSize=18&descAlignY=68" />
+<!-- UST BANNER (footer ile ayni kahve palet) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0dfc7,50:c9a17a,100:8b6444&height=200&section=header&text=Hasan%20H%C3%BCseyin%20Kaya&fontSize=48&fontColor=2d1a0f&animation=fadeIn&fontAlignY=38&desc=Elektrik-Elektronik%20M%C3%BChendisi%20-nl-%20End%C3%BCstriyel%20Otomasyon%20ve%20Yaz%C4%B1l%C4%B1m&descSize=18&descAlignY=68" />
 
 <!-- YAZAN ANIMASYON -->
 <p align="center">
   <a href="https://github.com/KULLANICIADIN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2D2D2D&center=true&vCenter=true&width=650&lines=Elektrik-Elektronik+M%C3%BChendisi;End%C3%BCstriyel+Otomasyon+%7C+PLC+%26+SCADA;OPC+UA+%7C+Modbus+%7C+TIA+Portal;Yapay+Zeka+%26+G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B6444&center=true&vCenter=true&width=650&lines=Elektrik-Elektronik+M%C3%BChendisi;End%C3%BCstriyel+Otomasyon+%7C+PLC+%26+SCADA;OPC+UA+%7C+Modbus+%7C+TIA+Portal;Yapay+Zeka+%26+G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme" alt="typing" />
   </a>
 </p>
 
-<!-- SAYAC + SOSYAL -->
+<!-- SAYAC -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=2d2d2d&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=8b6444&style=flat-square" alt="views" />
   &nbsp;
-  <a href="https://linkedin.com/in/hasanhuseyinkaya/">
-    <img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kayahuseyinhasan42@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2d2d2d?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/Konya-4a4a4a?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+---
+
+## 📬 Iletisim
+
+<p align="center">
+  <a href="mailto:kayahuseyinhasan042@gmail.com">
+    <img src="https://img.shields.io/badge/kayahuseyinhasan042@gmail.com-8b6444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hasanhuseyinkaya/">
+    <img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -128,21 +135,27 @@ Tesisin elektrik projesini **EPLAN** ile sifirdan tasarladim ve tum saha panolar
 
 ## 📊 GitHub Istatistikleri
 
+<table align="center">
+<tr>
+<td valign="top" align="center" width="50%">
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=KULLANICIADIN&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2d2d2d&text_color=333333&icon_color=8b6444" />
+</td>
+<td valign="top" align="center" width="50%">
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=2d2d2d&text_color=333333" />
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=KULLANICIADIN&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2d2d2d&text_color=333333&icon_color=4a4a4a" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=2d2d2d&text_color=333333" />
+  <img width="800" src="https://streak-stats.demolab.com?user=KULLANICIADIN&hide_border=true&background=FFFFFF&stroke=2D2D2D&ring=2D2D2D&fire=8B6444&currStreakLabel=1A1A1A&sideLabels=333333&currStreakNum=1A1A1A&sideNums=333333&dates=888888" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KULLANICIADIN&hide_border=true&background=FFFFFF&stroke=2D2D2D&ring=2D2D2D&fire=8B6444&currStreakLabel=1A1A1A&sideLabels=333333&currStreakNum=1A1A1A&sideNums=333333&dates=888888" />
+  <img width="800" src="https://github-profile-trophy-fork-two.vercel.app/?username=KULLANICIADIN&theme=flat&no-frame=true&column=7&margin-w=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=KULLANICIADIN&theme=flat&no-frame=true&column=7&margin-w=10" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICIADIN&bg_color=ffffff&color=2d2d2d&line=8b6444&point=2d2d2d&area=true&area_color=e8d5b8&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICIADIN&bg_color=ffffff&color=2d2d2d&line=8b6444&point=2d2d2d&area=true&area_color=e8d5b8&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" />
 </p>
 
 ---
@@ -163,19 +176,6 @@ Elektrik-Elektronik Muhendisligi 🔌
   📖 Okuma &nbsp; <img src="https://progress-bar.xyz/70/?width=180&color=4a4a4a&progress_background=eaeaea&show_text=false&style=flat" /> &nbsp; Orta<br/>
   ✍️ Yazma &nbsp; <img src="https://progress-bar.xyz/50/?width=180&color=4a4a4a&progress_background=eaeaea&show_text=false&style=flat" /> &nbsp; Baslangic-Orta<br/>
   🗣️ Konusma &nbsp; <img src="https://progress-bar.xyz/70/?width=180&color=4a4a4a&progress_background=eaeaea&show_text=false&style=flat" /> &nbsp; Orta
-</p>
-
----
-
-## 📬 Iletisim
-
-<p align="center">
-  <a href="mailto:kayahuseyinhasan42@gmail.com">
-    <img src="https://img.shields.io/badge/kayahuseyinhasan42@gmail.com-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/hasanhuseyinkaya/">
-    <img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 <!-- ALT BANNER -->
